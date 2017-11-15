@@ -1,0 +1,18 @@
+[
+    {
+        "id":"group01",
+        "functions":["Account.getAccount", "Account.getAccountDetails", "Account.setAccountDisable", "Account.setAlias"]
+    },
+    {
+        "id":"group02",
+        "functions":["Account.Movements.getMovements", "Account.Movements.createMovement"]
+    },
+    {
+        "id":"group03",
+        "functions":["Feature.setFavorite"]
+    },
+    {
+        "id":"group09",
+        "functions":["General.logout"]
+    }
+]

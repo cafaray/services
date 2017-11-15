@@ -1,0 +1,23 @@
+[
+    {         
+        "user":"Sydney",
+        "hash" : "a8113a9b4f61b178cd1fea4efa5bf4c8",
+        "mail":"sydney@email.info",
+        "lastPhrase":"2017-03-21",
+        "groups":["group01", "group09"]
+    },
+    {
+        "user":"Kris",
+        "hash":"03e13700e25563c0c0a8ffdb48dbbc19",
+        "mail":"kris@email.info",
+        "lastPhrase":"2017-05-12",
+        "groups":["group01", "group02", "group09"]
+    },
+    {    
+        "user":"Evgeny",
+        "hash":"4ef16ce8daa5c4e38d83d55577f001f9",
+        "mail":"evgeny@email.info",
+        "lastPhrase":"2016-12-11",
+        "groups":["group01", "group02", "group03", "group09"]
+    }
+]

@@ -1,0 +1,34 @@
+[
+        {
+            "function": "General.logout",
+            "endpoint": "/logout"
+        },
+        {
+            "function": "Account.getAccount",
+            "endpoint": "/accounts/"
+        },
+        {
+            "function": "Account.Movements.getMovements",
+            "endpoint": "/accounts/{idaccount}/movements/"
+        },
+        {
+            "function": "Account.Movements.createMovement",
+            "endpoint": "/accounts/{idaccount}/movements/create"
+        },
+        {
+            "function": "Account.getAccountDetails",
+            "endpoint": "/accounts/{idaccount}/details"
+        },
+        {
+            "function": "Account.setAccountDisable",
+            "endpoint": "/accounts/{idaccount}/disable"
+        },
+        {
+            "function": "Account.setAlias",
+            "endpoint": "/accounts/{idaccount}/alias"
+        },
+        {
+            "function": "Feature.setFavorite",
+            "endpoint": "/features/favorite/mark"
+        }
+    ]
